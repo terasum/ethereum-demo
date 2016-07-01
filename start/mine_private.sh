@@ -1,5 +1,5 @@
 #!/bin/bash
-geth --genesis "/home/chenquan/Workspace/chainblock/private/start/genesis.json" \
+geth \
 --networkid "20160630" \
 --mine \
 --minerthreads "1" \
